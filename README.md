@@ -1,4 +1,4 @@
 # huahangli-github.io
-Huahang Li's personal website, see [huahangli.love](https://huahangli.love)
+Huahang Li's personal website, see [huahangli.com](https://huahangli.com)
 <br>
-Copyright © 2022 - All Rights Reserved 
+Copyright © 2024 - All Rights Reserved 
